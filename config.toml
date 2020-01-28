@@ -2,7 +2,7 @@ BaseUrl= "https://arthur.mobi/"
 LanguageCode= "pt-br"
 Title= "Arthur Braghetto"
 paginate = 5
-DisqusShortname = ""
+DisqusShortname = "arthur-braghetto"
 Copyright = "All rights reserved"
 canonifyurls = true
 theme = "air"
@@ -24,7 +24,7 @@ theme = "air"
   bio= "Engineer, Maker, Coder, Curious..."
   logo = "images/user.png"
   #logo_top = "images/logo.png"
-  googleAnalyticsUserID = ""
+  googleAnalyticsUserID = "UA-98924734-3"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
   githubName = "braghetto"
