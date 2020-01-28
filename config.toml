@@ -1,0 +1,35 @@
+BaseUrl= "https://arthur.mobi/"
+LanguageCode= "pt-br"
+Title= "Arthur Braghetto"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved"
+canonifyurls = true
+theme = "air"
+
+[author]
+  name = "Arthur Braghetto"
+  bio = "Engineer, Maker, Coder, Curious..."
+  location = "Ribeirão Preto, BR"
+
+[permalinks]
+  post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = "Engenheiro de Telecomunicações"
+  cover = "images/user.jpg"
+  author = "Arthur Braghetto"
+  authorlocation = ""
+  authorwebsite = ""
+  bio= "Engineer, Maker, Coder, Curious..."
+  logo = "images/user.png"
+  #logo_top = "images/logo.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "braghetto"
+  twitterName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  mainSections = ["post"]
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arthur Braghetto</title>
+    <link>https://arthur.mobi/posts/</link>
+    <description>Recent content in Posts on Arthur Braghetto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Mon, 27 Jan 2020 00:40:47 -0300</lastBuildDate>
+    
+	<atom:link href="https://arthur.mobi/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>https://arthur.mobi/posts/contato/</link>
+      <pubDate>Mon, 27 Jan 2020 00:40:47 -0300</pubDate>
+      
+      <guid>https://arthur.mobi/posts/contato/</guid>
+      <description>Vamos converar?
+Estes são meus endereços de contato.
+Telegram:
+@arthurbraghetto
+Linkedin:
+https://www.linkedin.com/in/arthurbraghetto
+E-Mail:
+arthur@opictelecom.com.br
+Opic Telecom:
+https://www.opictelecom.com.br
++55 (16) 3627-8284</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://arthur.mobi/posts/my-first-post/</link>
+      <pubDate>Sat, 25 Jan 2020 16:17:44 -0300</pubDate>
+      
+      <guid>https://arthur.mobi/posts/my-first-post/</guid>
+      <description>Testando!
+import oi Código  Caracoles
+ oi
+echo &amp;#39;Oi&amp;#39; pwd link</description>
+    </item>
+    
+  </channel>
+</rss>
