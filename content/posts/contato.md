@@ -19,7 +19,7 @@ __Linkedln:__\
 
 
 __E-Mail:__\
-*arthur@opictelecom.com.br*
+[*arthur@opictelecom.com.br*](mailto:arthur@opictelecom.com.br)
 
 
 __Opic Telecom:__\
