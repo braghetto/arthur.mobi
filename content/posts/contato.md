@@ -11,7 +11,7 @@ Adoraria receber uma mensagem sua.
 
 
 __Telegram:__\
-*@arthurbraghetto*
+[*@arthurbraghetto*](https://t.me/arthurbraghetto)
 
 
 __Linkedln:__\
