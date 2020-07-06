@@ -5,6 +5,7 @@ paginate = 5
 DisqusShortname = "arthur-braghetto"
 Copyright = "All rights reserved"
 canonifyurls = true
+enableRobotsTXT = true
 theme = "air"
 
 [author]

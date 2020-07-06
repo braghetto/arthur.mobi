@@ -723,10 +723,10 @@ body.nav-opened .nav {
     margin-left: -16px;
     width: 34px;
     height: 34px;
-    font-size: 44px;
+    font-size: 100px;
     text-align: center;
     text-decoration: none;
-    color: rgba(255,255,255,0.7);
+    color: rgba(255,255,255,1);
     -webkit-animation: bounce 4s 2s infinite;
     animation: bounce 4s 2s infinite;
 }
@@ -1543,7 +1543,7 @@ body:not(.post-template) .post-title {
     .blog-logo img {
         padding: 4px 0;
         height: 40px;
-        width: 40px;
+        width: 40pxf;
     }
 
     .page-title {

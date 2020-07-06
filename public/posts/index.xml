@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>All rights reserved</copyright>
-    <lastBuildDate>Mon, 27 Jan 2020 00:40:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 01:39:05 -0300</lastBuildDate>
     
 	<atom:link href="https://arthur.mobi/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Atualmente</title>
+      <link>https://arthur.mobi/posts/atualmente/</link>
+      <pubDate>Mon, 27 Jan 2020 01:39:05 -0300</pubDate>
+      
+      <guid>https://arthur.mobi/posts/atualmente/</guid>
+      <description>Atualmente trabalho na Opic Telecom, onde ingressei logo após minha graduação em 2008, desde então já se passaram muitos anos.
+Iniciei meus trabalhos na Opic Telecom como engenheiro eletricista, progredindo para projetos acústicos e na sequência projetando sistemas digitais e analógicos. Com a experiência de anos desenhando e implementando sistemas de missão crítica, passei a atuar mais em funções de pesquisa e desenvolvimento.
+Enquanto escrevo este post tenho mais de 10 anos de experiência como consultor em tecnologia para as indústrias de Broadcast e TI profissional.</description>
+    </item>
     
     <item>
       <title>Contato</title>
@@ -18,29 +29,18 @@
       <pubDate>Mon, 27 Jan 2020 00:40:47 -0300</pubDate>
       
       <guid>https://arthur.mobi/posts/contato/</guid>
-      <description>Vamos converar?
+      <description>Vamos conversar?
 Estes são meus endereços de contato.
+Adoraria receber uma mensagem sua.
 Telegram:
 @arthurbraghetto
-Linkedin:
+Linkedln:
 https://www.linkedin.com/in/arthurbraghetto
 E-Mail:
 arthur@opictelecom.com.br
 Opic Telecom:
 https://www.opictelecom.com.br
 +55 (16) 3627-8284</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://arthur.mobi/posts/my-first-post/</link>
-      <pubDate>Sat, 25 Jan 2020 16:17:44 -0300</pubDate>
-      
-      <guid>https://arthur.mobi/posts/my-first-post/</guid>
-      <description>Testando!
-import oi Código  Caracoles
- oi
-echo &amp;#39;Oi&amp;#39; pwd link</description>
     </item>
     
   </channel>
