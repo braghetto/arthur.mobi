@@ -23,8 +23,8 @@ __E-Mail:__\
 
 
 __Opic Telecom:__\
-*https://www.opictelecom.com.br\
-+55 (16) 3627-8284*
+*https://www.opictelecom.com.br*  
+*+55 (16) 3627-8284*
 
 
 
