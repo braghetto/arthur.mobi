@@ -7,7 +7,6 @@ menu: "main"
 
 Vamos conversar?\
 Estes são meus endereços de contato.\
-Adoraria receber uma mensagem sua.
 
 
 __Telegram:__\
