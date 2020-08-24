@@ -1,6 +1,6 @@
 ---
 title: "Contato"
-date: 2020-01-27T00:40:47-03:00
+date: 2020-08-24T13:40:00-03:00
 draft: false
 menu: "main"
 ---
@@ -16,6 +16,10 @@ __Telegram:__\
 
 __Linkedln:__\
 *https://www.linkedin.com/in/arthurbraghetto*
+
+
+__Keybase:__\
+[*arthurmb*](https://keybase.io/arthurmb)
 
 
 __E-Mail:__\
