@@ -5,7 +5,7 @@ draft: false
 menu: "main"
 ---
 
-Esta é minha chave pública pgp/gpg.
+This is my pgp/gpg public key.
 
 
 ```
