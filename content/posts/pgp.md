@@ -1,5 +1,5 @@
 ---
-title: "GPG Public Key"
+title: "PGP Public Key"
 date: 2020-10-08T21:00:00-03:00
 draft: false
 menu: "main"

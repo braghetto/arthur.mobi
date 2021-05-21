@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Arthur Braghetto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>All rights reserved</copyright>
-    
-	<atom:link href="https://arthur.mobi/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>All rights reserved</copyright><atom:link href="https://arthur.mobi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

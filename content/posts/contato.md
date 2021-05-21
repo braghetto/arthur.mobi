@@ -1,5 +1,5 @@
 ---
-title: "Contato"
+title: "Contact"
 date: 2020-10-08T21:40:00-03:00
 draft: false
 menu: "main"
@@ -8,24 +8,24 @@ menu: "main"
 Let's talk?
 
 
-__Telegram:__
+__Telegram:__\
 [*@arthurbraghetto*](https://t.me/arthurbraghetto)
 
 
-__Linkedln:__
+__Linkedln:__\
 *https://www.linkedin.com/in/arthurbraghetto*
 
 
-__Keybase:__
+__Keybase:__\
 [*arthurmb*](https://keybase.io/arthurmb)
 
 
-__E-Mail:__
+__E-Mail:__\
 [*arthur@opictelecom.com.br*](mailto:arthur@opictelecom.com.br)
 
 
-__Opic Telecom:__
-*https://www.opictelecom.com.br*
+__Opic Telecom:__\
+*https://www.opictelecom.com.br*\
 *+55 (16) 3627-8284*
 
 
