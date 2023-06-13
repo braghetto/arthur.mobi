@@ -1,0 +1,16 @@
+{
+  "name": "arthur.mobi",
+  "version": "1.0.0",
+  "description": "It's my personal website repository. Each commit here triggers a new satatic generation using Hugo and AWS Amplify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.18",
+    "tinacms": "^1.5.9"
+  }
+}

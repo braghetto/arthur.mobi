@@ -1,0 +1,14 @@
+fragment PostParts on Post {
+  title
+  date
+  description
+  tags
+  body
+}
+
+fragment PagesParts on Pages {
+  title
+  date
+  description
+  body
+}

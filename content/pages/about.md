@@ -2,7 +2,6 @@
 title: About
 description: About me
 date: 2023-06-01
-author: Arthur Braghetto
 ---
 
 Hello!
