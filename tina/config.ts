@@ -39,7 +39,7 @@ export default defineConfig({
           filename: {
             readonly: true,
             slugify: values => {
-              return `${values?.title?.toLowerCase().replace(/[.,\/#<>[\]!+'"?@|\\$%\^&\*;:{}=\-_`~()]/g,"").trim().replace(/ /g, '-')}/index`
+              return `${values?.title?.toLowerCase().replace(/[.,\/#<>[\]!+'"?@|\\$%\^&\*;:{}=\-_´¨`~()]/g,"").trim().replace(/ /g, '-')}`
             },
           },
         },
@@ -87,6 +87,14 @@ export default defineConfig({
         label: "Pages",
         path: "content/pages",
         format: "md",
+        ui: {
+          filename: {
+            readonly: true,
+            slugify: values => {
+              return `${values?.title?.toLowerCase().replace(/[.,\/#<>[\]!+'"?@|\\$%\^&\*;:{}=\-_´¨`~()]/g,"").trim().replace(/ /g, '-')}`
+            },
+          },
+        },
         fields: [
           {
             type: "string",
