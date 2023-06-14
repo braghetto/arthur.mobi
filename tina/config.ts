@@ -32,6 +32,9 @@ export default defineConfig({
         label: "Posts",
         path: "content/posts",
         format: "md",
+        match: {
+          exclude: "_*",
+        },
         ui: {
           filename: {
             readonly: true,
