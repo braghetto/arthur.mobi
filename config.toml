@@ -4,6 +4,10 @@ enableRobotsTXT = true
 # This is what goes in <html lang="">
 languageCode = 'en-us'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 theme = "hugo-blog-awesome"
 
 # This defines how dates are formatted
