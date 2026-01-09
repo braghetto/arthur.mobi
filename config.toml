@@ -8,6 +8,12 @@ languageCode = 'en-us'
   [caches.images]
     dir = ':cacheDir/images'
 
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
 theme = "hugo-blog-awesome"
 
 # This defines how dates are formatted
