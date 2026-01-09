@@ -1,0 +1,4 @@
+Contact: mailto:me@arthur.mobi
+Encryption: https://arthur.mobi/publickey.txt
+Preferred-Languages: en, pt-BR
+Canonical: https://arthur.mobi/.well-known/security.txt
