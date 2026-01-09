@@ -3,17 +3,6 @@ baseURL = 'https://arthur.mobi/'
 enableRobotsTXT = true
 # This is what goes in <html lang="">
 languageCode = 'en-us'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-[outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML"]
-  term = ["HTML"]
-
 theme = "hugo-blog-awesome"
 
 # This defines how dates are formatted
@@ -30,6 +19,16 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 # To enable Disqus comments, provide Disqus Shortname below.
 # To disable Disqus comments, simply leave the field empty or remove the next line
 disqusShortname = 'arthur-braghetto'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
@@ -135,4 +134,3 @@ url = "/index.xml"
 startLevel = 2 # ToC starts from H2
 endLevel = 4 # ToC ends at H4
 ordered = false # generates <ul> instead of <ol>
-
